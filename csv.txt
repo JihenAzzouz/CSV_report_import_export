@@ -1,0 +1,4 @@
+paint,10,2
+pencil,1.75,3
+paint,70,4
+paper,2.25,10
