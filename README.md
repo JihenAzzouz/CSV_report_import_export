@@ -17,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-* web server(wamp)
+* web server(exp : wamp)
 * php5/7
 ```
 
@@ -25,8 +25,11 @@ What things you need to install the software and how to install them
 
 ```
 * move the folder into webserver root directory (exp : /www wamp | /htdocs xamp )
+* create database named "csv" own a table named expense with three fields (category,price,amount)
+* edit the config file located under /src/config with your own data
+* if localhost denied access while running please grant all privilieges to your user (this worked for me)
 ```
-if localhost denied access while running please grant all privilieges to your user (this worked for me)
+
 
 
 ## Built With
