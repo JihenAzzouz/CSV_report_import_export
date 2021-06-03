@@ -1,7 +1,5 @@
-# claromentis
-# Claromentis PHP Developer Test
 
-It was test task for[Claromentis](https://www.claromentis.com).
+
 
 The task is to run some calculations and display result based on data from an uploaded CSV file. CSV stands for comma separated values – format supported by Excel or any other spreadsheets software.
 The source data is an imaginary expenses report and the goal of the programme is to display total cost per expense category.
